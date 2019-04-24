@@ -5,3 +5,5 @@
 [**002.JS实现页面查看zip文件中的内容**](https://github.com/xrkffgg/Tools/issues/2)
 
 [**003.Vue+Element前端导入导出Excel**](https://github.com/xrkffgg/Tools/issues/3)
+
+[**004.Vue简便监听事件**](https://github.com/xrkffgg/Tools/issues/4)
