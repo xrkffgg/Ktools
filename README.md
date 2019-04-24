@@ -45,7 +45,5 @@ One tool for help
 </code></pre>
 </details>
 
-> **欢迎关注：** [Github](https://github.com/xrkffgg/Tools)
-[掘金](https://juejin.im/user/59c369496fb9a00a4843a3e2/posts)
-[简书](https://www.jianshu.com/u/4ca4daac5890)
+> **欢迎关注：** [**Github**](https://github.com/xrkffgg/Tools) [**掘金**](https://juejin.im/user/59c369496fb9a00a4843a3e2/posts) [**简书**](https://www.jianshu.com/u/4ca4daac5890)
 
