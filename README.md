@@ -34,6 +34,7 @@ One tool for help
 002.JS实现页面查看zip文件中的内容
 003.Vue+Element前端导入导出Excel
 004.Vue监听键盘鼠标事件
+005.Vue使用Canvas绘制图片、矩形、线条、文字，下载图片
 </code></pre>
 </details>
 
