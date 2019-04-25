@@ -9,3 +9,5 @@
 [**004.Vue监听键盘鼠标事件**](https://github.com/xrkffgg/Tools/issues/4)
 
 [**005.Vue使用Canvas绘制图片、矩形、线条、文字，下载图片**](https://github.com/xrkffgg/Tools/issues/5)
+
+[**006.vue全家桶+Echarts+百度地图，搭建数据可视化系统**](https://github.com/xrkffgg/Tools/issues/6)
