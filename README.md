@@ -4,7 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/xrkffgg/Tools.svg?style=flat-square)](https://github.com/xrkffgg/Tools/issues)
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)
 
-> *若上面图标显示异常，请 关闭屏蔽广告 等插件*😂😂😂
+> *若上面图标显示异常，请 关闭屏蔽广告 等插件* 😂😂😂
 # 工具包
 记录工作、生活中使用到的各种工具，如JS、收藏夹、文章等等。。。
 
