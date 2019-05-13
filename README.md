@@ -6,7 +6,7 @@
 
 > *若上面图标显示异常，请 关闭屏蔽广告 等插件* 😂😂😂
 # 工具包
-记录工作、生活中使用到的各种工具，如JS、收藏夹、文章等等。。。
+记录工作、生活中使用到的各种工具，如JS、软件、文章等等。。。
 
 ## 目录结构
 <details>
@@ -36,9 +36,9 @@
 ***
 
 <details>
-<summary>bookmarks</summary>
+<summary>marks</summary>
 <pre><code>
---记录收藏夹
+记录软件分享
 </code></pre>
 </details>
 
