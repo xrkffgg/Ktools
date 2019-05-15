@@ -1,8 +1,10 @@
 # Tools
+[![kvue](https://img.shields.io/badge/Kvue-xrkffgg-brightgreen.svg?style=flat-square)](https://github.com/xrkffgg/kvue)
 [![GitHub last commit](https://img.shields.io/github/last-commit/xrkffgg/Tools.svg?color=red&style=flat-square)](https://github.com/xrkffgg/Tools/commits/master)
 [![GitHub stars](https://img.shields.io/github/stars/xrkffgg/Tools.svg?style=flat-square)](https://github.com/xrkffgg/Tools/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/xrkffgg/Tools.svg?style=flat-square)](https://github.com/xrkffgg/Tools/issues)
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)
+
 
 > *若上面图标显示异常，请 关闭屏蔽广告 等插件* 😂😂😂
 # 工具包
@@ -15,6 +17,7 @@
 --记录常用JS
 001.Date
 002.Excel
+003.Utils
 </code></pre>
 </details>
 
@@ -53,7 +56,7 @@
 </details>
 
 ## 求赞~~助~~😎
-> **欢迎关注 我的：** [【Github】](https://github.com/xrkffgg) [【掘金】](https://juejin.im/user/59c369496fb9a00a4843a3e2/posts) [【简书】](https://www.jianshu.com/u/4ca4daac5890)
+> **欢迎关注 我的：** [【Github】](https://github.com/xrkffgg) [【掘 金】](https://juejin.im/user/59c369496fb9a00a4843a3e2/posts) [【简 书】](https://www.jianshu.com/u/4ca4daac5890)
 ## 文档协议
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本文库采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
 
