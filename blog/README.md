@@ -13,3 +13,5 @@
 [**006.vue全家桶+Echarts+百度地图，搭建数据可视化系统**](https://github.com/xrkffgg/Tools/issues/6)
 
 [**007.Vue项目打包后动态获取自定义变量**](https://github.com/xrkffgg/Tools/issues/7)
+
+[**008.前端引用字体@font-face的若干优化方法**](https://github.com/xrkffgg/Tools/issues/8)
