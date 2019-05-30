@@ -17,3 +17,5 @@
 [**008.前端引用字体@font-face的若干优化方法**](https://github.com/xrkffgg/Tools/issues/8)
 
 [**009.vue全家桶+Echarts+百度地图，搭建数据可视化系统（【续】接口篇）**](https://github.com/xrkffgg/Tools/issues/9)
+
+[**010.Vue项目引入CreateJS的方法（亲测）**](https://github.com/xrkffgg/Tools/issues/10)
