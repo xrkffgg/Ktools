@@ -12,3 +12,4 @@
 ### 001. 波纹效果：https://github.com/fians/Waves
 ### 002. 滑块效果：https://github.com/SortableJS/Vue.Draggable
 ### 003. 终端命令行: https://github.com/dongsuo/vue-terminal
+### 004. 顶部加载：https://github.com/rstacruz/nprogress/
