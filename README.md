@@ -49,15 +49,9 @@
 
 --1 软件记录
 ---1.1 工具类
----- 001. ScreenToGif
 ---1.2 系统类
----- 001. qwins
-
 --2 项目记录
 ---2.1 效果类
----- 001. Waves
----- 002. Vue.Draggable
----- 003. vue-terminal
 
 </code></pre>
 </details>
