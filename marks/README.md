@@ -15,5 +15,8 @@
 ### 004. 顶部加载：https://github.com/rstacruz/nprogress/
 ### 005. 滚动插件：better-scroll 、 swiper
 
+## 2.2 图标类
+### 001. https://remixicon.com/
+
 ## 2.2 工具类
 ### 001.VuePress：Vue 驱动的静态网站生成器

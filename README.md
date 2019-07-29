@@ -19,6 +19,8 @@
 001.Date
 002.Excel
 003.Utils
+004.Num
+005.Canvas
 </code></pre>
 </details>
 
@@ -46,12 +48,6 @@
 <summary>marks</summary>
 <pre><code>
 --记录软件分享
-
---1 软件记录
----1.1 工具类
----1.2 系统类
---2 项目记录
----2.1 效果类
 
 </code></pre>
 </details>
