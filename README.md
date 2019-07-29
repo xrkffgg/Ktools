@@ -1,13 +1,18 @@
-# Tools
-[![kvue](https://img.shields.io/badge/Kvue-xrkffgg-brightgreen.svg?style=flat-square)](https://github.com/xrkffgg/kvue)
-[![GitHub last commit](https://img.shields.io/github/last-commit/xrkffgg/Tools.svg?color=red&style=flat-square)](https://github.com/xrkffgg/Tools/commits/master)
-[![GitHub stars](https://img.shields.io/github/stars/xrkffgg/Tools.svg?style=flat-square)](https://github.com/xrkffgg/Tools/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/xrkffgg/Tools.svg?style=flat-square)](https://github.com/xrkffgg/Tools/issues)
+# Ktools
+[![Kvue](https://img.shields.io/badge/%E2%9D%A4-Kvue-brightgreen?style=flat-square)](https://github.com/xrkffgg/Kvue)
+[![Ktools](https://img.shields.io/badge/%E2%9D%A4-Ktools-blue?style=flat-square)](https://github.com/xrkffgg/Ktools)
+[![Kplugins](https://img.shields.io/badge/%E2%9D%A4-Kplugins-blueviolet?style=flat-square)](https://github.com/xrkffgg/Kplugins)
+[![GitHub last commit](https://img.shields.io/github/last-commit/xrkffgg/Ktools.svg?color=red&style=flat-square)](https://github.com/xrkffgg/Ktools/commits/master)
+[![GitHub stars](https://img.shields.io/github/stars/xrkffgg/Ktools.svg?style=flat-square)](https://github.com/xrkffgg/Ktools/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/xrkffgg/Ktools.svg?style=flat-square)](https://github.com/xrkffgg/Ktools/issues)
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)
-[![HitCount](http://hits.dwyl.io/xrkffgg/Tools.svg)](http://hits.dwyl.io/xrkffgg/Tools)
+[![HitCount](http://hits.dwyl.io/xrkffgg/Tools.svg)](http://hits.dwyl.io/xrkffgg/Ktools)
 
 
 > *若上面图标显示异常，请 关闭屏蔽广告 等插件* 😂😂😂
+> 
+> *由于项目更名引起部分错误，对此表示歉意*
+
 # 工具包
 记录工作、生活中使用到的各种工具，如JS、软件、文章等等。。。
 
@@ -70,4 +75,4 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本文库采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 - **转载请注明出处** 
-- **出处为：**[https://github.com/xrkffgg/Tools](https://github.com/xrkffgg/Tools)
+- **出处为：**[https://github.com/xrkffgg/Ktools](https://github.com/xrkffgg/Ktools)
