@@ -3,6 +3,8 @@
 [![Ktools](https://img.shields.io/badge/%E2%9D%A4-Ktools-blue?style=flat-square)](https://github.com/xrkffgg/Ktools)
 [![Kme](https://img.shields.io/badge/%E2%9D%A4-Kme-orange?style=flat-square)](https://xrkffgg.github.io/)
 [![Kplugins](https://img.shields.io/badge/%E2%9D%A4-Kplugins-blueviolet?style=flat-square)](https://github.com/xrkffgg/Kplugins)
+[![Knotes](https://img.shields.io/badge/%E2%9D%A4-Knotes-yellow?style=flat-square)](https://github.com/xrkffgg/Knotes)
+
 [![GitHub last commit](https://img.shields.io/github/last-commit/xrkffgg/Ktools.svg?color=red&style=flat-square)](https://github.com/xrkffgg/Ktools/commits/master)
 [![GitHub stars](https://img.shields.io/github/stars/xrkffgg/Ktools.svg?style=flat-square)](https://github.com/xrkffgg/Ktools/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/xrkffgg/Ktools.svg?style=flat-square)](https://github.com/xrkffgg/Ktools/issues)
@@ -13,6 +15,8 @@
 > *若上面图标显示异常，请 关闭屏蔽广告 等插件* 😂😂😂
 > 
 > *由于项目更名引起部分错误，对此表示歉意*
+>
+> **后续 文章类 将存放于 Knotes 项目中，本项目以工具为主**
 
 # 工具包
 记录工作、生活中使用到的各种工具，如JS、软件、文章等等。。。
