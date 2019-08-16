@@ -14,6 +14,7 @@
 ### 003. 终端命令行: https://github.com/dongsuo/vue-terminal
 ### 004. 顶部加载：https://github.com/rstacruz/nprogress/
 ### 005. 滚动插件：better-scroll 、 swiper
+### 006. vuescroll: 自定义滚动条
 
 ## 2.2 图标类
 ### 001. https://remixicon.com/
