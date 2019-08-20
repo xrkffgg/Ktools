@@ -4,6 +4,7 @@
 [![Kme](https://img.shields.io/badge/%E2%9D%A4-Kme-orange?style=flat-square)](https://xrkffgg.github.io/)
 [![Kplugins](https://img.shields.io/badge/%E2%9D%A4-Kplugins-blueviolet?style=flat-square)](https://github.com/xrkffgg/Kplugins)
 [![Knotes](https://img.shields.io/badge/%E2%9D%A4-Knotes-yellow?style=flat-square)](https://github.com/xrkffgg/Knotes)
+[![Khome](https://img.shields.io/badge/%E2%9D%A4-Khome-red?style=flat-square)](https://github.com/xrkffgg/Khome)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/xrkffgg/Ktools.svg?color=red&style=flat-square)](https://github.com/xrkffgg/Ktools/commits/master)
 [![GitHub stars](https://img.shields.io/github/stars/xrkffgg/Ktools.svg?style=flat-square)](https://github.com/xrkffgg/Ktools/stargazers)
