@@ -23,7 +23,8 @@
 > [**访问地址**](https://xrkffgg.github.io/Knotes/)
 
 # 工具包
-记录工作、生活中使用到的各种工具，如JS、软件、文章等等。。。
+~~记录工作、生活中使用到的各种工具，如JS、软件、文章等等。。。~~
+主要记录 工具类 JS
 
 ## 目录结构
 <details>
@@ -38,43 +39,30 @@
 </code></pre>
 </details>
 
-***
-<details>
-<summary>blog</summary>
-<pre><code>
---记录文章
-001.JS计算两个时间间隔
-002.JS实现页面查看zip文件中的内容
-003.Vue+Element前端导入导出Excel
-004.Vue监听键盘鼠标事件
-005.Vue使用Canvas绘制图片、矩形、线条、文字，下载图片
-006.vue全家桶+Echarts+百度地图，搭建数据可视化系统
-007.Vue项目打包后动态获取自定义变量
-008.前端引用字体@font-face的若干优化方法
-009.vue全家桶+Echarts+百度地图，搭建数据可视化系统（【续】接口篇）
-010.Vue项目引入CreateJS的方法（亲测）
-</code></pre>
-</details>
+```
+JS
+│
+└─── 001.Date
+│   │   main.js
+│
+└─── 002.Excel
+│   │   Blob.js
+│   │   Export2Excel.js
+│
+└─── 003.Utils
+│   │   main.js
+│
+└─── 004.Num
+│   │   main.js
+│
+└─── 005.Canvas
+│   │   main.js
+│   │   f2-canvas（小程序，antv图表）
+│
+└─── 006.Animation
+│   │   main.js
 
-***
-
-<details>
-<summary>marks</summary>
-<pre><code>
---记录软件分享
-
-</code></pre>
-</details>
-
-***
-<details>
-<summary>project</summary>
-<pre><code>
---记录项目
----vue
-----001.build vue项目新建
-</code></pre>
-</details>
+```
 
 ## 求赞~~助~~😎
 **欢迎关注：**
