@@ -11,7 +11,7 @@ export default {
   methods: {
     /**
      * @desc 获取当前时间并进行格式化
-     * type {day : 2011-1-1 , ss : 2011-1-1 12:20:33}
+     * type {day : 2011-1-1 , ss : 2011-1-1 12:20:33 , cms - 主页专用}
      */
     getNowDate(type){
       let now = new Date()
@@ -25,10 +25,45 @@ export default {
       month = month < 10 ? '0'+ month : month
       day = day < 10 ? '0'+ day : day
 
+      hh = hh < 10 ? '0'+ hh : hh
+      mm = mm < 10 ? '0'+ mm : mm
+      ss = ss < 10 ? '0'+ ss : ss
+
+      let weekk = ''
+      switch(week){
+        case 0:
+          weekk = 'Sun.';
+          break;
+        case 1:
+          weekk = 'Mon.';
+          break;
+        case 2:
+          weekk = 'Tues.';
+          break;
+        case 3:
+          weekk = 'Wed.';
+          break;
+        case 4:
+          weekk = 'Thur.';
+          break;
+        case 5:
+          weekk = 'Fri.';
+          break;
+        case 6:
+          weekk = 'Sat.';
+          break;
+      }
+
       if(type == 'day'){
         return year +'-'+ month +'-'+ day
-      } else {
+      } else if(type == 'ss'){
         return year +'-'+ month +'-'+ day + ' '+ hh + ':' + mm + ':' + ss
+      } else if(type == 'cms'){
+        return {
+          year: year +'-'+ month +'-'+ day,
+          week: weekk,
+          time: hh + ':' + mm + ':' + ss,
+        }
       }
     },
 
