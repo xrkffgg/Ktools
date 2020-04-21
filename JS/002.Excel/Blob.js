@@ -15,7 +15,7 @@
 
 /*! @source http://purl.eligrey.com/github/Blob.js/blob/master/Blob.js */
 
-(function (view) {
+const blob = function (view) {
     "use strict";
 
     view.URL = view.URL || view.webkitURL;
@@ -176,4 +176,5 @@
         }
         return builder.getBlob(type);
     };
-}(typeof self !== "undefined" && self || typeof window !== "undefined" && window || this.content || this));
+}
+exports.blob = blob;
