@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>使用js调用设备摄像头并实现拍照</title>
+  <script src="https://cdn.bootcss.com/zepto/1.2.0/zepto.min.js"></script>
+  <style type="text/css">
+    *{margin:0;padding:0}video{width:200px}button{width:100px;height:60px}
+  </style>
+</head>
+<body>
+  
+  <div class="box">
+    <video src=""></video>
+    <button class='shot'>拍照</button>
+    <canvas id='canvas'></canvas>
+    <img src=''>
+  </div>
+  
+  <script type="text/javascript">
+    // 视频大小
+    var constraints = {audio: true, video: {width: 200,height: 250}};
+    // 开启视频
+    navigator.mediaDevices.getUserMedia(constraints).then(function(mediaStream) {
+      console.log('getUserMedia:', mediaStream)
+      var video = document.querySelector('video');
+      video.srcObject = mediaStream;
+      video.onloadedmetadata = function(e) {
+        video.play();
+      };
+      
+      // 使用canvas进行拍照
+      var canvas = document.getElementById('canvas')
+      $('button').on('click', function () {
+        canvas.getContext('2d').drawImage(video, 0, 0, 200, 250);
+        $('img').css('src', canvas.toDataURL("image/png"))
+      })
+      
+    }).catch(function(err) {
+      console.log(err.name + ": " + err.message);
+    });
+    
+  </script>
+</body>
+</html>
+
