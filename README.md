@@ -18,9 +18,9 @@
 > *由于项目更名引起部分错误，对此表示歉意*
 
 
-> **后续 blog marks project 文件夹中内容 将存放于 Knotes 项目中，本项目中文章将不再进行更新** 
-> 
-> [**访问地址**](https://xrkffgg.github.io/Knotes/)
+- **后续 blog marks project 文件夹中内容 将存放于 Knotes 项目中，本项目中文章将不再进行更新** 
+ 
+- [**访问地址**](https://xrkffgg.github.io/Knotes/)
 
 # 工具包
 ~~记录工作、生活中使用到的各种工具，如JS、软件、文章等等。。。~~
