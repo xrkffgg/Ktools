@@ -22,7 +22,7 @@
  
 - [**访问地址**](https://xrkffgg.github.io/Knotes/)
 
-# 工具包
+# Ktools 工具包
 ~~记录工作、生活中使用到的各种工具，如JS、软件、文章等等。。。~~
 
 主要记录 工具类 JS + Demo 展示 + CSS
