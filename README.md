@@ -1,10 +1,10 @@
 # Ktools
-[![Kvue](https://img.shields.io/badge/%E2%9D%A4-Kvue-brightgreen?style=flat-square)](https://github.com/xrkffgg/Kvue)
+<!-- [![Kvue](https://img.shields.io/badge/%E2%9D%A4-Kvue-brightgreen?style=flat-square)](https://github.com/xrkffgg/Kvue)
 [![Ktools](https://img.shields.io/badge/%E2%9D%A4-Ktools-blue?style=flat-square)](https://github.com/xrkffgg/Ktools)
 [![Kme](https://img.shields.io/badge/%E2%9D%A4-Kme-orange?style=flat-square)](https://xrkffgg.github.io/)
 [![Kplugins](https://img.shields.io/badge/%E2%9D%A4-Kplugins-blueviolet?style=flat-square)](https://github.com/xrkffgg/Kplugins)
 [![Knotes](https://img.shields.io/badge/%E2%9D%A4-Knotes-yellow?style=flat-square)](https://github.com/xrkffgg/Knotes)
-[![Khome](https://img.shields.io/badge/%E2%9D%A4-Khome-red?style=flat-square)](https://github.com/xrkffgg/Khome)
+[![Khome](https://img.shields.io/badge/%E2%9D%A4-Khome-red?style=flat-square)](https://github.com/xrkffgg/Khome) -->
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/xrkffgg/Ktools.svg?color=red&style=flat-square)](https://github.com/xrkffgg/Ktools/commits/master)
 [![GitHub stars](https://img.shields.io/github/stars/xrkffgg/Ktools.svg?style=flat-square)](https://github.com/xrkffgg/Ktools/stargazers)
@@ -12,15 +12,7 @@
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)
 [![HitCount](http://hits.dwyl.io/xrkffgg/Ktools.svg)](http://hits.dwyl.io/xrkffgg/Ktools)
 
-
-> *若上面图标显示异常，请 关闭屏蔽广告 等插件* 😂😂😂
->
-> *由于项目更名引起部分错误，对此表示歉意*
-
-
-- **后续 blog marks project 文件夹中内容 将存放于 Knotes 项目中，本项目中文章将不再进行更新**
-
-- [**访问地址**](https://xrkffgg.github.io/Knotes/)
+- **后续 blog marks project 文件夹中内容 将存放于 [Knotes](https://xrkffgg.github.io/Knotes/) 项目中，本项目中文章将不再进行更新**
 
 # Ktools 工具包
 ~~记录工作、生活中使用到的各种工具，如JS、软件、文章等等。。。~~
@@ -28,6 +20,7 @@
 主要记录 工具类 JS + Demo 展示 + CSS
 
 ## 目录
+
 ### JS
 - 001.Date
 - 002.Excel
@@ -46,6 +39,9 @@
 
 ### CSS
 - csshake.css
+
+### Shell
+- git-history.sh
 
 ## 求赞~~助~~😎
 
