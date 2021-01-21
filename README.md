@@ -14,7 +14,6 @@
 
 - **后续 blog marks project 文件夹中内容 将存放于 [Knotes](https://xrkffgg.github.io/Knotes/) 项目中，本项目中文章将不再进行更新**
 
-# Ktools 工具包
 ~~记录工作、生活中使用到的各种工具，如JS、软件、文章等等。。。~~
 
 主要记录 工具类 JS + Demo 展示 + CSS
