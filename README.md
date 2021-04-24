@@ -10,7 +10,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/xrkffgg/Ktools.svg?style=flat-square)](https://github.com/xrkffgg/Ktools/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/xrkffgg/Ktools.svg?style=flat-square)](https://github.com/xrkffgg/Ktools/issues)
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)
-[![HitCount](http://hits.dwyl.io/xrkffgg/Ktools.svg)](http://hits.dwyl.io/xrkffgg/Ktools)
 
 - **后续 blog marks project 文件夹中内容 将存放于 [Knotes](https://xrkffgg.github.io/Knotes/) 项目中，本项目中文章将不再进行更新**
 
